@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery.getJSON demo</title>
+  <style>
+  img {
+    height: 100px;
+    float: left;
+  }
+  </style>
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+ 
+<div id="images"></div>
+ 
+<script>
+
+  var data={};
+
+    $.ajax({
+    url: "../tmp/my.json",
+    success: function (result) {
+      data = JSON.parse(result);
+    }
+    });
+
+
+</script>
+ 
+</body>
+</html>

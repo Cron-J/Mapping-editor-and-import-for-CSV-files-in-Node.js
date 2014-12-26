@@ -1,0 +1,6 @@
+Action Code,Sup Part Num,Classification_id,retail_price,retail_price_quantity,gross_price,gross_price_quantity,ProductId
+I,CC102-PDMI-001,eClass_5.1.3,24200102,54609,12365555,12365555,eClass_54
+I,CC200-009-001,eClass_5.1.3,24200102,12365555,12365555,12365555,eClass_54
+I,CC200-070-001,eClass_5.1.3,24200102,12365555,12365414,12365414,eClass_56
+I,CC200-099,eClass_5.1.3,24200102,12365555,4456,45689,eClass_59
+I,CC200-100,eClass_5.1.3,24200102,12365555,6956,12456,eClass_59
